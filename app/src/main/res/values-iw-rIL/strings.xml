@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eater</string>
+    <string name="instruction_str">" לחץ על המסך כדי לעוף למעלה, שחרר לחיצה כדי לרדת מטה. אסוף מטבעות רבים ככל שתוכל תוך כדי הימנעות מאויבים. בהצלחה :)"</string>
+    <string name="instruct_ttl">הוראות</string>
+    <string name="done_str">סיום</string>
+    <string name="start_str">התחל</string>
+    <string name="score_str">לוח תוצאות</string>
+    <string name="score">ניקוד</string>
+    <string name="tap_str">גע כדי להתחיל</string>
+    <string name="again_str">נסה שוב</string>
+    <string name="home_str">מסך בית</string>
+    <string name="high_score_str">הניקוד הגבוה ביותר</string>
+</resources>
